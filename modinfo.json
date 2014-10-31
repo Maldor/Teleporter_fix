@@ -1,0 +1,17 @@
+{
+  "author": "Maldor96", 
+  "build": "73939", 
+  "category": [
+    "in-game", 
+    "server-mod"
+  ], 
+  "context": "server", 
+  "date": "2014/10/18", 
+  "description": "Fixes for the Teleporter, because no one else was going to fix it...", 
+  "display_name": "Teleporter Rebalance", 
+  "enabled": true, 
+  "forum": "https://forums.uberent.com/threads/wip-maldors-mini-mods.64495/", 
+  "identifier": "com.Maldor96.Buildings.TeleporterFix", 
+  "priority": 100, 
+  "version": "1.0"
+}
