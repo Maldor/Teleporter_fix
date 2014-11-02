@@ -14,7 +14,7 @@
     }
   }, 
   "base_spec": "/pa/units/land/base_structure/base_structure.json", 
-  "build_metal_cost": 2000, 
+  "build_metal_cost": 2200, 
   "command_caps": [
     "ORDER_Move", 
     "ORDER_Patrol", 
@@ -24,7 +24,7 @@
     "ORDER_Assist", 
     "ORDER_Use"
   ], 
-  "description": "!LOC(units:teleporter_teleports_units_from_one_to_another.message):Teleporter: Teleports units from one to another.", 
+  "description": "!LOC(units:teleporter_teleports_units_from_one_to_another.message):Teleporter: Teleports units from one to another. More fixed than is needed :)", 
   "display_name": "!LOC(units:teleporter.message):Teleporter", 
   "energy_efficiency_requirement": 1.0, 
   "events": {
@@ -158,7 +158,7 @@
   }, 
   "spawn_layers": "WL_LandHorizontal", 
   "teleporter": {
-    "energy_demand": 2000
+    "energy_demand": 2200
   }, 
   "unit_name": "!LOC(units:teleporter.message):Teleporter", 
   "unit_types": [
